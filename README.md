@@ -20,7 +20,7 @@ A Django REST API for managing products and users in an e-commerce platform.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ecommerce-product-api.git
+git clone https://github.com/Jooleric/ecommerce-product-api.git
 cd ecommerce-product-api
 pip install -r requirements.txt
 python manage.py runserver
